@@ -21,4 +21,4 @@ unique_ids.add([1,2,3,4])
 
 # You can iterate over a set using a for loop, however the elements will come out in no particular order
 
-# to check the availability of an element in a set, you can use the in and not in operators
+# to check the availability of an element in a set, you can use the in and not in 3operators
