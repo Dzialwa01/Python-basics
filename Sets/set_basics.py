@@ -1,4 +1,4 @@
-# SSET BASICS
+# SET BASICS
 
 # What is a set? -> An unordered collection of unique immutable elements
 ## Each element in a set is distinct. Duplicates are automatically removed
