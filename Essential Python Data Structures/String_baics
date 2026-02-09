@@ -1,0 +1,28 @@
+# Dzialwa Nemakonde
+# 01 December 2025
+
+# Strings in python
+
+# To declare a string, you can either "" or ''
+
+# If there is a situation where you need to use the single quote in a string i.e. contraction
+# You can use backslash, \, to escape the single quote or use double quotes
+
+#e.g.
+print('AI says, I\'m here to assist you.')
+print("AI says, I'm here to assist you.")
+
+# To create a multiline string, use write the output within 3 quotes
+ai_response = """Hello there!
+I'm an AI here to help.
+Feel free to ask me anything.
+"""
+print(ai_response)
+
+#We can achieve the same thing by using \n
+ai_prompt = 'Welcome to AI Bot\nYour virtual assistant\nHere to assist with all things tech!'
+print(ai_prompt)
+
+#Special Characters and escape sequences
+#- '\' is a special character for escape sequences
+## \n (new line), \t(tab),
